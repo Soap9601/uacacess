@@ -1,0 +1,1 @@
+cmd /min /C "set___COMPACT_LAYER=runasinvoker && start "" "%1"
